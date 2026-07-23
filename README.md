@@ -6,7 +6,7 @@ This project demonstrates building an online shop using the MVC architecture wit
 
 ---
 ## 🌐 Live Demo
-[Click Here](node-shop-mongodb-driver-production.up.railway.app)
+[Click Here](https://node-shop-mongodb-driver-production.up.railway.app)
 ---
 ## 📸 Screenshots
 
